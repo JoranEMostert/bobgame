@@ -1,0 +1,13 @@
+* {
+  overflow: hidden;
+  margin: 0px;
+}
+
+body {
+  background-color: darkblue;
+}
+body > canvas {
+  position: absolute;
+}
+
+/*# sourceMappingURL=styles.css.map */

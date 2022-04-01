@@ -1,0 +1,11 @@
+*{
+  overflow: hidden;
+  margin: 0px;
+}
+
+body{
+  background-color: darkblue;
+  >canvas{
+    position: absolute;
+  }
+}
